@@ -1,3 +1,9 @@
+/*
+6 3
+0 1
+2 3
+4 5
+*/
 #include<bits/stdc++.h>
 using namespace std;
 void dfs(int node,vector<vector<int>>&adj,vector<int>& visited){
